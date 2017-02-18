@@ -4,4 +4,5 @@ output: html_document
 ---
 
 HI!
+hi
 no
